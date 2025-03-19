@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+        "typescript": "npx tsx", //para pode testar os códigos em TS com o plugin code runner
+    }
+}
